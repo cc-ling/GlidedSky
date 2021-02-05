@@ -89,8 +89,8 @@ def to_next_page(driver):
 
 def login(driver):
 	#登录
-	driver.find_element_by_xpath('//*[@id="email"]').send_keys('1004897116@qq.com')
-	driver.find_element_by_xpath('//*[@id="password"]').send_keys('jingxin123...')
+	driver.find_element_by_xpath('//*[@id="email"]').send_keys(账号)
+	driver.find_element_by_xpath('//*[@id="password"]').send_keys(密码)
 	driver.find_element_by_xpath('//*[@id="app"]/main/div[1]/div/div/div/div[2]/form/div[4]/div/button').click()
 
 
