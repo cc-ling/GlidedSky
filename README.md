@@ -4,7 +4,7 @@ http://www.glidedsky.com/
 
 代码参考@[Way](https://github.com/TurboWay/glidedsky#list)
 
-IP屏蔽1同IP屏蔽2，故代码只放一个
+IP屏蔽1和IP屏蔽2代码相同，故代码只放一个
 
 | 代码                                                         | 说明            |
 | ------------------------------------------------------------ | :-------------- |
@@ -17,5 +17,3 @@ IP屏蔽1同IP屏蔽2，故代码只放一个
 | [crawler-ip-block-2.py](https://github.com/cc-ling/GlidedSky/crawler-ip-block-2.py) | 爬虫-IP屏蔽2    |
 | [crawler-javascript-obfuscation-1.py](https://github.com/cc-ling/GlidedSky/crawler-javascript-obfuscation-1.py) | 爬虫-JS加密1    |
 | [crawler-sprite-image-1.py](https://github.com/cc-ling/GlidedSky/crawler-sprite-image-1.py) | 爬虫-雪碧图-1   |
-
-![1610354946963](C:\Users\CC\AppData\Roaming\Typora\typora-user-images\1610354946963.png)
